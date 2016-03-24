@@ -1,7 +1,7 @@
 
-#include "stest/testbench.h"
+#include "xstf/testbench.h"
 
-namespace stest
+namespace xstf
 {
 
 

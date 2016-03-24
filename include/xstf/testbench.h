@@ -6,7 +6,7 @@
 
 #define TEST_CHECK(bench, cond, msg) bench.check(cond, msg, __LINE__)
 
-namespace stest {
+namespace xstf {
 
 class TestBench {
 private:

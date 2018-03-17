@@ -2,6 +2,7 @@
 
 XSTF is an eXtremely Simple Test Framework.
 
+
 ## Why?
 
 After checking a few available test frameworks, I feel they are a bloated. Maybe the reason of my thoughts is that I'm really noob at TDD, but I just couldn't find
@@ -19,3 +20,8 @@ int main( int argc, char** argv )
 	return tb.successAll();
 }
 ```
+
+## Changelog
+
+### v0.1.0
+Testbench and testing helpers in separated files
